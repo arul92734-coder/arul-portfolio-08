@@ -1,0 +1,1 @@
+Place certificate images here. Update the Learning section in src/App.jsx with verified details.
