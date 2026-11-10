@@ -134,7 +134,7 @@ function App() {
           <div className="portrait-area">
             <div className="portrait-blob" />
             <div className="portrait-card">
-              <img src="/images/profile.jpg" alt="Arul Shakthi C profile" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement.classList.add('photo-empty'); }} />
+              <img src="/images/my-new-photo.jpg" alt="Arul Shakthi C profile" onError={e => { e.currentTarget.style.display = 'none'; e.currentTarget.parentElement.classList.add('photo-empty'); }} />
               <div className="photo-placeholder"><span>AS</span><small>ADD YOUR PHOTO</small></div>
             </div>
           </div>
